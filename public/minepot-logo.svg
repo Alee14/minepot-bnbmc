@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.95875069"
-     inkscape:cx="243.0246"
+     inkscape:cx="243.54611"
      inkscape:cy="310.29965"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="text236-7" />
   <defs
      id="defs922">
     <linearGradient
@@ -77,23 +77,26 @@
        inkscape:export-filename="../../../../../home/andrew/minepot-logo.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
-      <text
-         xml:space="preserve"
-         style="font-size:32.685px;line-height:1.25;font-family:Parisienne;-inkscape-font-specification:Parisienne;word-spacing:0px;fill:#ececec;stroke:#000000;stroke-width:0.523437;stroke-dasharray:none;stroke-opacity:1"
-         x="-1.1107974"
-         y="84.067917"
-         id="text236-7"><tspan
-           sodipodi:role="line"
-           id="tspan234-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;fill:#ececec;stroke:#000000;stroke-width:0.523437;stroke-dasharray:none;stroke-opacity:1"
-           x="-1.1107974"
-           y="84.067917"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;fill:#ececec;stroke:#000000;stroke-width:0.523437;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan396-6">M</tspan>ine<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Hack;-inkscape-font-specification:Hack;fill:#ececec;stroke:#000000;stroke-width:0.523437;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan1448-4">P</tspan><tspan
-   style="fill:#ececec;stroke:#000000;stroke-width:0.523437;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan3969-3">ot</tspan></tspan></text>
+      <g
+         id="text236-7"
+         style="font-size:32.685px;line-height:1.25;font-family:Parisienne;-inkscape-font-specification:Parisienne;word-spacing:0px;fill:#ececec;stroke:#000000;stroke-width:0.523437"
+         aria-label="MinePot">
+        <path
+           style="font-weight:bold;font-family:Hack;-inkscape-font-specification:Hack"
+           d="M 0.2617173,60.240423 H 5.8794519 L 8.7202382,70.693878 11.545065,60.240423 h 5.649654 V 84.067917 H 13.141012 V 64.980387 L 10.619415,75.401923 H 6.8689393 L 4.3154235,64.980387 v 19.08753 H 0.2617173 Z"
+           id="path1" />
+        <path
+           style="font-family:Hack;-inkscape-font-specification:Hack"
+           d="m 26.914037,62.953534 q -0.478784,0 -0.478784,-0.478785 v -2.760988 q 0,-0.478785 0.478784,-0.478785 h 2.298164 q 0.478785,0 0.478785,0.478785 v 2.760988 q 0,0.478785 -0.478785,0.478785 z m 5.362383,21.242059 q -2.633313,0 -4.085625,-1.691705 -1.436353,-1.707663 -1.436353,-4.787842 v -9.224575 h -3.910071 v -2.298164 h 6.846615 v 11.522739 q 0,1.947056 0.734135,2.968463 0.734136,1.021406 2.13857,1.021406 h 3.431286 v 2.489678 z m 9.08094,-18.002286 h 2.649272 l 0.287271,2.681191 q 1.611907,-3.112097 5.250667,-3.112097 5.474099,0 5.474099,7.229641 V 84.067917 H 52.066167 V 72.992042 q 0,-2.40988 -0.845853,-3.543003 -0.829892,-1.133122 -2.585434,-1.133122 -2.090691,0 -3.223814,1.484231 -1.117163,1.468271 -1.117163,4.165422 V 84.067917 H 41.35736 Z m 27.386454,18.337435 q -4.133504,0 -6.495506,-2.473719 -2.346043,-2.489678 -2.346043,-6.782776 0,-2.665232 0.92565,-4.819761 0.941609,-2.154529 2.776948,-3.415327 1.851299,-1.276758 4.56441,-1.276758 3.574922,0 5.537937,2.298164 1.978975,2.282205 1.978975,6.335911 v 1.436353 H 62.966484 v 0.09576 q 0,2.792908 1.468272,4.452694 1.468271,1.659785 4.340977,1.659785 1.659785,0 3.207854,-0.526663 1.564028,-0.526662 3.01634,-1.276758 v 2.920584 q -1.51615,0.622419 -3.080178,0.989487 -1.548069,0.383028 -3.175935,0.383028 z m 4.005827,-10.996078 q 0,-1.484231 -0.446865,-2.681191 -0.446865,-1.196961 -1.436352,-1.899177 -0.973528,-0.702217 -2.585435,-0.702217 -1.627866,0 -2.72907,0.718176 -1.085244,0.702217 -1.707664,1.899177 -0.60646,1.196961 -0.766054,2.665232 z"
+           id="path2" />
+        <path
+           style="font-weight:bold;font-family:Hack;-inkscape-font-specification:Hack"
+           d="m 80.250595,60.240423 h 6.463587 q 4.915518,0 7.101966,1.755542 2.154528,1.739583 2.154528,5.697532 0,3.95795 -2.154528,5.697532 -2.186448,1.755542 -7.101966,1.755542 H 84.95864 v 8.921346 h -4.708045 z m 6.639141,10.948199 q 2.330083,0 3.255733,-0.782014 0.925649,-0.782014 0.925649,-2.713111 0,-1.931096 -0.925649,-2.71311 -0.92565,-0.782014 -3.255733,-0.782014 H 84.95864 v 6.990249 z"
+           id="path3" />
+        <path
+           d="m 107.14231,84.530742 q -3.73452,0 -5.71349,-2.409881 -1.963018,-2.42584 -1.963018,-6.95833 0,-4.54845 1.978978,-6.97429 1.97897,-2.42584 5.68157,-2.42584 3.7026,0 5.66561,2.42584 1.97898,2.40988 1.97898,6.990249 0,4.54845 -1.96302,6.958331 -1.96301,2.393921 -5.66561,2.393921 z m -0.016,-2.489678 q 2.18645,0 3.35149,-1.787461 1.181,-1.787461 1.181,-5.122991 0,-3.319571 -1.181,-5.091072 -1.16504,-1.787461 -3.35149,-1.787461 -2.20241,0 -3.38341,1.787461 -1.16504,1.771501 -1.16504,5.091072 0,3.33553 1.181,5.122991 1.181,1.787461 3.36745,1.787461 z m 22.71032,2.090691 q -3.28765,0 -4.66016,-1.324637 -1.35656,-1.340595 -1.35656,-4.564409 v -9.767198 h -4.77188 v -2.282204 h 4.77188 v -4.676126 l 2.93655,-1.276758 v 5.952884 h 6.67106 v 2.282204 h -6.67106 v 9.767198 q 0,1.963015 0.75009,2.760989 0.7501,0.782014 2.61735,0.782014 h 3.30362 v 2.346043 z"
+           id="path4" />
+      </g>
       <g
          aria-label="M"
          id="text4073-0"
